@@ -5,8 +5,6 @@ function App() {
   return (
     <>
       <Layout />
-
-      <h1>Vai nessa</h1>
       <GlobalStyles />
     </>
   );
